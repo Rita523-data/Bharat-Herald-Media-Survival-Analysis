@@ -42,7 +42,9 @@ order by e1.year,pct_of_total_year desc;
 
 
 -- Business Request – 3: 2024 Print Efficiency Leaderboard 
--- For 2024, rank cities by print efficiency = net_circulation / copies_printed. Return top 5.
+-- For 2024, rank cities by print efficiency = net_circulation / copies_printed. Return top 5
+-- Explanation:-copies_printed = sum(copies_sold)
+-- 				net_circulataion=sum(copies_sold-copies_returned).
 
 
 with cte as (select c.city , 

@@ -7,7 +7,7 @@ This project is part of the **Codebasics Resume Challenge** and focuses on analy
 
 # Interactive Dashboard Link: 
 
-[Click here to View](https://app.powerbi.com/view?r=eyJrIjoiMWMyMWI4YWItMDI5My00ZmQxLTljZjEtZWJlMjE3MDc5ZjE2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+[Click here to View]([https://app.powerbi.com/view?r=eyJrIjoiMWMyMWI4YWItMDI5My00ZmQxLTljZjEtZWJlMjE3MDc5ZjE2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9](https://app.powerbi.com/view?r=eyJrIjoiMWMyMWI4YWItMDI5My00ZmQxLTljZjEtZWJlMjE3MDc5ZjE2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9))
 
 # Presentation Link : 
 

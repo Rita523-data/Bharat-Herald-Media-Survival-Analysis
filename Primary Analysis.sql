@@ -1,5 +1,8 @@
 -- What is the trend in copies printed, copies sold, and net circulation across all 
 -- cities from 2019 to 2024? How has this changed year-over-year? 
+-- Explanation:-copies_printed = sum(copies_sold)
+-- 				net_circulataion=sum(copies_sold-copies_returned)
+
 
 select ps.year,c.city,
 	sum(copies_sold) as total_sold,
